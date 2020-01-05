@@ -1,0 +1,7 @@
+{
+    "name": "blades",
+    "version": "1.5.0",
+    "description": "Asset which replaces balls with blades, now for all classes!",
+    "module": false,
+    "ccmodDependencies": {}
+}
