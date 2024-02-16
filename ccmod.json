@@ -1,0 +1,9 @@
+{
+  "id": "blades",
+  "version": "1.5.0",
+  "title": "Blades",
+  "description": "Asset which replaces balls with blades, now for all classes!",
+  "repository": "https://github.com/CCDirectLink/Blades",
+  "tags": ["cosmetic"],
+  "authors": ["keanuplayz", "ac2pic", "2767mr"]
+}
